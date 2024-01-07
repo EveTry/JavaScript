@@ -1,4 +1,4 @@
-# Array Function
+# Arrow Function
 The arrow function is introduced in ES6. It does not have a prototype, nor does it have its own this reference, and it cannot use the arguments parameter. Therefore, it is not possible to use the new operator with an arrow function.
 ### What happens if you create a new arrow function
 The steps to implement the new operator are as follows:
